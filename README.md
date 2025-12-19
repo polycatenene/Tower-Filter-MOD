@@ -14,9 +14,8 @@ It adds **category** and **rarity** filters to the tower selection panel, improv
 
 Built with **BepInEx** and **Harmony**, without modifying any original game files.
 
----
-
 ![Preview](images/preview.png)
+---
 
 ## 功能 Features
 
