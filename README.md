@@ -1,18 +1,13 @@
 # Tower Filter Mod
 
-![Preview](images/preview.png)
-
 ---
 
-## 中文介绍
+## 介绍 Description
+
 
 Tower Filter Mod 是一个为《极简塔防（Minimalist Tower Defense）》制作的 UI 增强模组，在选塔界面中加入【分类筛选】与【等级筛选】功能，帮助玩家在后期或高难度游戏中更高效地选择防御塔。
 
 本模组基于 **BepInEx** 与 **Harmony**，不修改任何游戏原始文件。
-
----
-
-## English Description
 
 Tower Filter Mod is a UI enhancement mod for *Minimalist Tower Defense*.  
 It adds **category** and **rarity** filters to the tower selection panel, improving usability in late-game and high-difficulty runs.
@@ -20,6 +15,8 @@ It adds **category** and **rarity** filters to the tower selection panel, improv
 Built with **BepInEx** and **Harmony**, without modifying any original game files.
 
 ---
+
+![Preview](images/preview.png)
 
 ## 功能 Features
 
