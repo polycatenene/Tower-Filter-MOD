@@ -20,7 +20,7 @@ Built with **BepInEx** and **Harmony**, without modifying any original game file
 
 ## 功能 Features
 
-- 分类筛选：攻击 / 矿塔 / 围墙 / 治疗 / 辅助 / 临时 / 抽象 / 晶塔  
+- 分类筛选：攻击 / 矿塔 / 围墙 / 治疗 / 辅助 / 临时 / 抽象 / 晶塔  ，多选取交集
 - 等级筛选：灰 / 绿 / 蓝 / 紫  
 - 原生风格 UI，非侵入式  
 - 可随时切换筛选条件  
