@@ -51,9 +51,9 @@ Built with **BepInEx** and **Harmony**, without modifying any original game file
 2. 将解压后的文件复制到《极简塔防》的游戏根目录  
 3. 启动一次游戏  
 4. 关闭游戏后，确认生成了以下目录：
-
+```bash
 BepInEx/plugins
-
+```
 
 ---
 
@@ -62,9 +62,9 @@ BepInEx/plugins
 1. 前往本仓库的 **Releases** 页面  
 2. 下载最新版本的 `TowerFilterMod.dll`  
 3. 将 DLL 放入：
-
+```bash
 <游戏目录>/BepInEx/plugins/
-
+```
 
 4. 启动游戏即可生效
 
